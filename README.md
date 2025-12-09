@@ -1,2 +1,2 @@
 # 01-css-methods-exercises
-Methods for adding CSS
+Methods for adding CSS to HTML file
