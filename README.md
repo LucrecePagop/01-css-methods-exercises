@@ -1,2 +1,2 @@
 # 01-css-methods-exercises
-Metghosd
+Methods for adding CSS
